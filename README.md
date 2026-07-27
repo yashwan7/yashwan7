@@ -1,9 +1,9 @@
 <h1 align="center">Yashwanth Gowda S N</h1>
 
-<h3 align="center">Java Backend Developer • Bengaluru, Karnataka, India</h3>
+<h3 align="center"> • Bengaluru, Karnataka, India</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Building+Scalable+Backend+Applications;Spring+Boot+%7C+DSA+%7C+System+Design;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Applications;Spring+Boot+%7C+DSA+%7C+System+Design;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
