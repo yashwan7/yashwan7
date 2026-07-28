@@ -16,14 +16,11 @@
   <a href="https://www.linkedin.com/in/yashwanthgowdasn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/REPLACE-ME" target="_blank">
+  <a href="https://github.com/yashwan7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/REPLACE-ME" target="_blank">
+  <a href="https://leetcode.com/u/yashwanth_sn/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://replit.com/@REPLACE-ME" target="_blank">
-    <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
   </a>
   <a href="mailto:yashwanth.gowda.sn7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
