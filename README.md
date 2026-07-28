@@ -2,35 +2,52 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Yashwanth+Gowda+SN;Looking+for+SWE+Internships"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Yashwanth+Gowda+SN;Java+%7C+Spring+Boot+Backend+Developer;AI%2FRAG+%26+LLM+Enthusiast;Looking+for+SWE+Internships;Based+in+Bengaluru%2C+Karnataka" alt="Typing SVG" />
 </a>
-<br/>
-</div>
 
-<!-- Clickable social/profile links with logos -->
-<p>
-  <a href="https://linkedin.com/in/REPLACE-ME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/REPLACE-ME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/REPLACE-ME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://replit.com/@REPLACE-ME" target="_blank">
-    <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
-  </a>
-  <a href="mailto:yashwanth.gowda.sn7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<br/>
+
+<!-- Clickable social/profile links — clean logo icons, no boxy badge template -->
+<table>
+<tr>
+<td align="center" width="110">
+<a href="https://linkedin.com/in/REPLACE-ME" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn"/>
+<br/><sub><b>LinkedIn</b></sub>
+</a>
+</td>
+<td align="center" width="110">
+<a href="https://github.com/REPLACE-ME" target="_blank">
+<img src="https://cdn.simpleicons.org/github/e6e6e6" width="36" height="36" alt="GitHub"/>
+<br/><sub><b>GitHub</b></sub>
+</a>
+</td>
+<td align="center" width="110">
+<a href="https://leetcode.com/REPLACE-ME" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="36" height="36" alt="LeetCode"/>
+<br/><sub><b>LeetCode</b></sub>
+</a>
+</td>
+<td align="center" width="110">
+<a href="https://replit.com/@REPLACE-ME" target="_blank">
+<img src="https://cdn.simpleicons.org/replit/F26207" width="36" height="36" alt="Replit"/>
+<br/><sub><b>Replit</b></sub>
+</a>
+</td>
+<td align="center" width="110">
+<a href="mailto:yashwanth.gowda.sn7@gmail.com" target="_blank">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email"/>
+<br/><sub><b>Email</b></sub>
+</a>
+</td>
+<td align="center" width="110">
+<a href="https://your-portfolio-link.com" target="_blank">
+<img src="https://cdn.simpleicons.org/aboutdotme/00A98F" width="36" height="36" alt="Portfolio"/>
+<br/><sub><b>Portfolio</b></sub>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
 
