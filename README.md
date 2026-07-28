@@ -1,12 +1,15 @@
 <div align="center">
 
-<!-- Typing animation --><a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=00F5D4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Yashwanth+Gowda+SN;Java+Backend+Developer;Spring+Boot+%7C+Java+%7C+SQL;Building+Backend+Projects;Looking+for+SWE+Internships"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=00F5D4&center=true&vCenter=true&width=700&lines=Yashwanth+Gowda+SN;Java+Backend+%7C+Full-Stack+Projects;Looking+for+SWE+Internships"
     alt="Typing SVG"
   />
 </a>
+
 <br/>
+
+</div>
 
 <!-- Clickable social/profile links with logos -->
 <p>
