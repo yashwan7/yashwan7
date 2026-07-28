@@ -1,178 +1,251 @@
 <div align="center">
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Yashwanth+Gowda+SN;Java+%7C+Spring+Boot+Backend+Developer;AI%2FRAG+%26+LLM+Enthusiast;Looking+for+SWE+Internships;Based+in+Bengaluru%2C+Karnataka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Yashwanth+Gowda;Based+in+Bengaluru%2C+India;Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+AI;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Clickable social/profile links — clean logo icons, no boxy badge template -->
-<table>
-<tr>
-<td align="center" width="110">
-<a href="https://linkedin.com/in/REPLACE-ME" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn"/>
-<br/><sub><b>LinkedIn</b></sub>
-</a>
-</td>
-<td align="center" width="110">
-<a href="https://github.com/REPLACE-ME" target="_blank">
-<img src="https://cdn.simpleicons.org/github/e6e6e6" width="36" height="36" alt="GitHub"/>
-<br/><sub><b>GitHub</b></sub>
-</a>
-</td>
-<td align="center" width="110">
-<a href="https://leetcode.com/REPLACE-ME" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="36" height="36" alt="LeetCode"/>
-<br/><sub><b>LeetCode</b></sub>
-</a>
-</td>
-<td align="center" width="110">
-<a href="https://replit.com/@REPLACE-ME" target="_blank">
-<img src="https://cdn.simpleicons.org/replit/F26207" width="36" height="36" alt="Replit"/>
-<br/><sub><b>Replit</b></sub>
-</a>
-</td>
-<td align="center" width="110">
-<a href="mailto:yashwanth.gowda.sn7@gmail.com" target="_blank">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email"/>
-<br/><sub><b>Email</b></sub>
-</a>
-</td>
-<td align="center" width="110">
-<a href="https://your-portfolio-link.com" target="_blank">
-<img src="https://cdn.simpleicons.org/aboutdotme/00A98F" width="36" height="36" alt="Portfolio"/>
-<br/><sub><b>Portfolio</b></sub>
-</a>
-</td>
-</tr>
-</table>
+<p>
+  <a href="https://linkedin.com/in/REPLACE-ME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/REPLACE-ME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/REPLACE-ME" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:yashwanth.gowda.sn7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 👋 About Me
+# 👋 About Me
 
-- 🎓 CCE (Computer & Communication Engineering) student, Class of **2029**
-- 📍 Based in **Bengaluru, Karnataka, India**
-- 🛠️ Currently building a **Scalable URL Shortener** and a **Hospital Queue Management System**
-- 💼 Looking for **Software Engineering Internships** (Backend / Java / Full-Stack)
-- ⚡ Fun fact: Solved 100+ DSA problems on LeetCode and picked up an Apprentice rating along the way
-
----
-
-### 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,fastapi,mysql,mongodb,docker,kubernetes,git,github,postman,idea,vscode,linux&perline=9" />
-
-</div>
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
+- 📍 Based in **Bengaluru, India**
+- 💻 Passionate about building scalable backend systems and AI-powered applications
+- 🚀 Currently building a **Scalable URL Shortener** and a **Hospital Queue Management System**
+- 🎯 Open to **Software Engineering Internship** opportunities
+- 📚 Currently learning **Spring Security, Redis, Docker, Kubernetes, Microservices & System Design**
 
 ---
 
-### 🚀 Projects
+# 🛠 Tech Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis&theme=dark" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+</p>
+
+### AI & APIs
+
+<p>
+
+- LangChain
+- RAG
+- OpenAI API
+- Gemini API
+
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode,idea&theme=dark" />
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%">
 
-**🧠 Persistent Memory AI Assistant**
+### 🧠 Persistent Memory AI Assistant
 
-AI assistant with long-term memory using RAG + vector search — remembers context across sessions instead of forgetting everything after each chat.
+AI assistant with long-term conversational memory using **RAG + Vector Search**.
 
-`Python` `FastAPI` `LangChain` `ChromaDB` `RAG` `Gemini API` `OpenAI API` `Docker`
+#### Highlights
 
-[![Demo](https://img.shields.io/badge/Try%20it-Live%20Demo-brightgreen?style=for-the-badge)](https://REPLACE-ME-demo-link.com)
+- Long-term memory using ChromaDB
+- Context retrieval with LangChain
+- REST APIs built with FastAPI
+- Dockerized deployment
+
+**Tech**
+
+`Python`
+`FastAPI`
+`LangChain`
+`ChromaDB`
+`Docker`
+`Gemini API`
+
 [![Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/REPLACE-ME/persistent-memory-ai-assistant)
 
 </td>
+
 <td width="50%">
 
-**🌱 EcoSync AI — 🏆 3rd Place, EcoSpark 2026**
+### 🌱 EcoSync AI
 
-IoT smart composting platform — ESP32 sensors feed a Spring Boot backend + React dashboard, with Gemini-powered insights for sustainable waste management.
+🏆 **3rd Place - EcoSpark 2026**
 
-`ESP32` `Arduino` `C++` `React` `Spring Boot` `MySQL` `Gemini API`
+IoT-powered smart composting platform integrating ESP32 sensors with a Spring Boot backend and React dashboard.
 
-[![Demo](https://img.shields.io/badge/Try%20it-Live%20Demo-brightgreen?style=for-the-badge)](https://REPLACE-ME-demo-link.com)
+#### Highlights
+
+- Real-time sensor monitoring
+- AI-powered sustainability insights
+- Dashboard for farmers
+- Smart waste management
+
+**Tech**
+
+`ESP32`
+`React`
+`Spring Boot`
+`MySQL`
+`Gemini API`
+
 [![Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/REPLACE-ME/ecosync-ai)
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%">
 
-**🏥 Smart Hospital Queue Management System**
+### 🏥 Hospital Queue Management System
 
-Full-stack hospital platform — appointment scheduling, live doctor availability, digital medical records, prescriptions, and smart patient notifications to cut waiting time.
+Modern hospital management platform designed to reduce patient waiting time.
 
-`Spring Boot` `React` `MySQL` `Spring Security` `REST APIs` `Docker`
+#### Highlights
 
-[![Demo](https://img.shields.io/badge/Try%20it-Live%20Demo-brightgreen?style=for-the-badge)](https://REPLACE-ME-demo-link.com)
+- Appointment scheduling
+- Live doctor availability
+- Digital medical records
+- REST APIs
+- Authentication with Spring Security
+
+**Tech**
+
+`Spring Boot`
+`React`
+`MySQL`
+`Docker`
+
 [![Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/REPLACE-ME/hospital-queue-management)
 
 </td>
+
 <td width="50%">
 
-**🔗 Scalable URL Shortener**
+### 🔗 Scalable URL Shortener
 
-High-performance URL shortener with secure auth, custom short links, click analytics, and rate limiting — Redis-cached and containerized for scale.
+A production-style URL shortening service focused on performance and scalability.
 
-`Spring Boot` `React` `MySQL` `Redis` `JWT` `Docker` `Kubernetes`
+#### Highlights
 
-[![Demo](https://img.shields.io/badge/Try%20it-Live%20Demo-brightgreen?style=for-the-badge)](https://REPLACE-ME-demo-link.com)
+- JWT Authentication
+- Custom short URLs
+- Click Analytics
+- Redis Caching
+- Rate Limiting
+
+**Tech**
+
+`Spring Boot`
+`Redis`
+`MySQL`
+`Docker`
+
 [![Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/REPLACE-ME/scalable-url-shortener)
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-### 🏆 Achievements
+# 🏆 Achievements
 
-- 🥇 **Suzlon Young Brilliance Award 2026**, Pune — for academic excellence
-- 🏅 **Top 10 Teams**, Google Developer Groups (GDG) TechSprint 2025
-- 🥉 **3rd Place**, EcoSpark 2026 Ideathon — for EcoSync AI
-- 💯 **100+ DSA problems** solved on LeetCode
-- ⭐ **Apprentice rating** on LeetCode contests
+- 🥉 **3rd Place** — EcoSpark 2026 Ideathon
+- 🏅 **Top 10 Teams** — Google Developer Groups (GDG) TechSprint 2025
+- 🥇 **Suzlon Young Brilliance Award 2026**
+- 💯 Solved **100+ Data Structures & Algorithms** problems on LeetCode
+- ⭐ Achieved **Apprentice** rating in LeetCode Contests
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=REPLACE-ME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=REPLACE-ME&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE-ME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=REPLACE-ME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:yashwanth.gowda.sn7@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/REPLACE-ME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/REPLACE-ME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 📊 GitHub Stats
+### Thanks for visiting! 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=REPLACE-ME&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=REPLACE-ME&theme=radical&hide_border=true" width="48%" />
-
-<br/><br/>
-
-📫 **Reach me at:** yashwanth.gowda.sn7@gmail.com
+*I enjoy building scalable backend systems, exploring AI applications, and contributing to impactful projects. If you'd like to collaborate or discuss opportunities, feel free to reach out!*
 
 </div>
