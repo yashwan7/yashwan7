@@ -3,7 +3,7 @@
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Yashwanth+Gowda+SN;Java+Backend+%7C+Full-Stack+Projects;Looking+for+SWE+Internships"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Yashwanth+Gowda+SN;;Looking+for+SWE+Internships"
     alt="Typing SVG"
   />
 </a>
