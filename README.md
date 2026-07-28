@@ -38,12 +38,12 @@
 
 ## 👋 About Me
 
-- 🎓 CCE (Computer & Communication Engineering) student, Class of **2029**
-- 📍 Based in **Bengaluru, Karnataka, India**
-- 💻 Passionate about building scalable backend systems and AI-powered applications
-- 🚀 Currently building a **Scalable URL Shortener** and a **Hospital Queue Management System**
-- 🎯 Open to **Software Engineering Internship** opportunities
-- 📚 Currently learning **Spring Security, Redis, Docker, Kubernetes, Microservices & System Design**
+-  CCE (Computer & Communication Engineering) student, Class of **2029**
+-  Based in **Bengaluru, Karnataka, India**
+-  Passionate about building scalable backend systems and AI-powered applications
+-  Currently building a **Scalable URL Shortener** and a **Hospital Queue Management System**
+-  Open to **Software Engineering Internship** opportunities
+-  ⌮ Currently learning **Spring Security, Redis, Docker, Kubernetes, Microservices & System Design**
 
 ---
 
@@ -110,7 +110,7 @@
 <tr>
 <td width="50%">
 
-**🧠 Persistent Memory AI Assistant**
+**🧠  AI Assistant with long term memory **
 
 Built an AI assistant with persistent long-term memory using LangChain, ChromaDB, RAG, and Gemini/OpenAI APIs. Implemented contextual memory retrieval, semantic search, and intelligent conversations across multiple sessions.
 
