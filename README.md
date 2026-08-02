@@ -133,30 +133,6 @@ Built an AI-powered IoT smart composting platform integrating ESP32-based sensor
 <tr>
 <td width="50%">
 
-**🏥 Smart Hospital Queue Management System**
-
-Developed a full-stack hospital management platform enabling appointment scheduling, real-time doctor availability, digital medical records, prescriptions, and intelligent patient notifications to reduce waiting time.
-
-`Spring Boot` `React` `MySQL` `Spring Security` `REST APIs` `Docker`
-
-[![Demo](https://img.shields.io/badge/Try%20it-Live%20Demo-brightgreen?style=for-the-badge)](https://REPLACE-ME-demo-link.com)
-[![Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/REPLACE-ME/hospital-queue-management)
-
-</td>
-<td width="50%">
-
-**🔗 Scalable URL Shortener**
-
-Built a scalable URL shortening service with secure authentication, custom short links, click analytics, caching, and rate limiting — designed for high performance using Redis caching and containerized deployment.
-
-`Spring Boot` `React` `MySQL` `Redis` `JWT` `Docker` `Kubernetes`
-
-[![Demo](https://img.shields.io/badge/Try%20it-Live%20Demo-brightgreen?style=for-the-badge)](https://REPLACE-ME-demo-link.com)
-[![Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/REPLACE-ME/scalable-url-shortener)
-
-</td>
-</tr>
-</table>
 
 ---
 
