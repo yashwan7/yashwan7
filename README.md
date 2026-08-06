@@ -97,68 +97,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
----
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🧠  AI Assistant with long term memory **
-
-Built an AI assistant with persistent long-term memory using LangChain, ChromaDB, RAG, and Gemini/OpenAI APIs. Implemented contextual memory retrieval, semantic search, and intelligent conversations across multiple sessions.
-
-`Python` `FastAPI` `LangChain` `ChromaDB` `RAG` `Gemini API` `OpenAI API` `Docker`
-
-[![Demo](https://img.shields.io/badge/Try%20it-Live%20Demo-brightgreen?style=for-the-badge)](https://REPLACE-ME-demo-link.com)
-[![Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/REPLACE-ME/persistent-memory-ai-assistant)
-
-</td>
-<td width="50%">
-
-**🌱 EcoSync AI — 🏆 3rd Place, EcoSpark 2026**
-
-Built an AI-powered IoT smart composting platform integrating ESP32-based sensors with a Spring Boot backend and React dashboard for real-time compost monitoring, with Gemini-powered insights for sustainable waste management.
-
-`ESP32` `Arduino` `C++` `React` `Spring Boot` `MySQL` `Gemini API`
-
-[![Demo](https://img.shields.io/badge/Try%20it-Live%20Demo-brightgreen?style=for-the-badge)](https://REPLACE-ME-demo-link.com)
-[![Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)](https://github.com/REPLACE-ME/ecosync-ai)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Suzlon Young Brilliance Award 2026**, Pune — for academic excellence
-- 🏅 **Top 10 Teams**, Google Developer Groups (GDG) TechSprint 2025
-- 🥉 **3rd Place**, EcoSpark 2026 Ideathon — for EcoSync AI
-- 💯 **100+ DSA problems** solved on LeetCode
-- ⭐ **Apprentice rating** on LeetCode contests
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/REPLACE-ME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/REPLACE-ME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-</a>
-<a href="mailto:yashwanth.gowda.sn7@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
