@@ -34,7 +34,7 @@
 
 ## 👋 About Me
 
--  Computer & Communication Engineering  **2029**
+-  Computer & Communication Engineering   **2029**
 -  **Bengaluru, Karnataka, India**
 -  Passionate about building scalable backend systems and AI-powered applications
 -  Currently building a **Scalable URL Shortener** and a **Hospital Queue Management System**
