@@ -37,7 +37,7 @@
 -  Computer & Communication Engineering   **2029**
 -  **Bengaluru, Karnataka, India**
 -  Passionate about building scalable backend systems and AI-powered applications
--  Currently building a resq-mesh an open weight ai model embedded system a tiny ml model which evaluates 6 RF channel metrics (RSSI,          SNR, Packet Error Rate, Jitter) and predicts wireless link degradation with 91.8% accuracy in just 10.3 milliseconds 
+-  Currently building a resq-mesh using open weight ai model embedded system a tiny ml model which evaluates 6 RF channel metrics (RSSI,        SNR, Packet Error Rate, Jitter) and predicts wireless link degradation with 91.8% accuracy in just 10.3 milliseconds 
 -  Open to **Software Engineering Internship** opportunities
 -  ⌮ Currently learning **Spring Security, Redis, Docker, Kubernetes, Microservices & System Design**
 
